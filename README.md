@@ -27,24 +27,38 @@
 
 ### Описание Данных:
 
-ads_data.csv:
+- ads_data.csv:
 
 date – дата;
+
 time – время;
+
 event – действие (просмотр/клик);
+
 platform – платформа;
+
 ad_id – id объявления;
+
 client_union_id – id рекламного кабинета;
+
 campaign_union_id – id рекламной кампании;
+
 ad_cost_type – тип оплаты;
+
 ad_cost – цена;
+
 has_video – наличие видео;
+
 target_audience_count – размер аудитории;
 
-ads_clients_data.csv:
+- ads_clients_data.csv:
+
 date – дата;
+
 client_union_id – id рекламного кабинета;
+
 community_id – id сообщества;
+
 create_date – дата создания рекламного клиента;
 
 ---
